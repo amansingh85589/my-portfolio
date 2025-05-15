@@ -116,7 +116,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
-  const resumeLink = "/new_resume.pdf";
+  const resumeLink = "./new_resume.pdf";
 
 
   useEffect(() => {

@@ -196,16 +196,16 @@ const experiences = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "AI website Builder",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Developed a full-stack platform for AI-generated websites using React.js, Node.js, Express, & LLM, A real-time streaming interface for prompt responses with Web Containers and a file explorer UI.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Express",
         color: "green-text-gradient",
       },
       {
@@ -214,12 +214,12 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://aibuilderwebsite.netlify.app/",
   },
   {
-    name: "Job IT",
+    name: "On-Demand Transportation App ",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Developing a full-featured ride-booking application using React, Node.js, Express, and MongoDB. Implemented real-time ride tracking, secure user authentication, and scalable APIs Designed a clean, responsive UI and integrated role-based access control",
     tags: [
       {
         name: "react",
@@ -238,16 +238,16 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Interactive Social Media",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Built an interactive 3D solar system simulation with realistic planetary orbits. Optimized rendering performance by 40%, improving FPS and reducing lag",
     tags: [
       {
-        name: "nextjs",
+        name: "react.js",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Three.js",
         color: "green-text-gradient",
       },
       {
